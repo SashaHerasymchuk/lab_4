@@ -1,0 +1,125 @@
+body {background-color: #D7BDE2 ;
+  height: 100%
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+display: flex;
+justify-content: center;
+border: 4px solid blue;
+padding: 5px;
+font-family: fantasy;
+background-image: url(https://media.istockphoto.com/photos/water-splash-picture-id182812025?b=1&k=20&m=182812025&s=170667a&w=0&h=Abe_bRg3NtpUBADmUHzYGMXiLhEmAKTCyTU9Lrpokro=);
+}
+p{
+color: orange;
+font-family: sans-serif;
+}
+h2{
+text-align: center;
+font-weight: lighter;
+font-family: Consolas;
+color: #00FFFF;
+}
+ul{
+font-family: fantasy;
+color: #1F618D;
+}
+footer{
+height: 25px;
+text-align: center;
+background-color: #09815C;
+float:left;
+width: 100%;
+font-family: sans-serif;
+color: #F4D03F;
+}
+.flex-item-1 {
+border: 1px solid black;
+padding: 0;
+margin: 0;
+}
+.about-first {
+width: 100%;
+height: 285px;
+}
+.photo {
+border: 1px solid black;
+float: left;
+width: 427px;
+height: 285px;
+}
+.personal-info {
+text-align: center;
+float: right;
+width: 1040px;
+height: 350px;
+}
+.p0 {
+  font-family: Monotype Corsiva;
+  font-size: 30px;
+  color: #cc7722;
+}
+.flex-item-1 {
+border: 4px solid red;
+background-image: url(https://media.istockphoto.com/photos/spray-water-drop-droplet-steam-fog-air-mist-liquid-sprayer-fluid-picture-id1316134177?b=1&k=20&m=1316134177&s=170667a&w=0&h=MEeWwhZ74UvtS8NIyrTtSyzoej4ZMsYAUX_0-z_Fd5M=);
+background-size: cover;
+}
+.my-interests {
+display: inline-block;
+
+text-align: center;
+}
+.table {
+display: inline-block;
+position: static;
+margin-top: 7px;
+margin-left: 5px;
+margin-right: 5px;
+
+}
+.my-place-of-residence {
+display: inline-block;
+text-align: center;
+}
+.td1{
+  text-align: center;
+  width: 100%;
+}
+.table3{
+  font-family: monospace;
+  background-color: #f5deb3;
+  border-spacing: 5px;
+}
+.flex-item-2 {
+border: 4px solid red;
+border-top: 2px solid red;
+background-image: url(https://media.istockphoto.com/photos/spray-water-drop-droplet-steam-fog-air-mist-liquid-sprayer-fluid-picture-id1316134177?b=1&k=20&m=1316134177&s=170667a&w=0&h=MEeWwhZ74UvtS8NIyrTtSyzoej4ZMsYAUX_0-z_Fd5M=);
+background-size: cover;
+}
+.parallax {
+  display: inline-block;
+  text-align: center;
+  margin-left: 50px;
+}
+.responsive-flex {
+  display: inline-block;
+  text-align: center;
+  margin-left: 140px;
+}
+.contact {
+  display: inline-block;
+  text-align: center;
+  margin-left: 130px;
+}
+#skills {
+  text-align: center;
+  margin: 10px;
+  color: #FF4500;
+}
+#href {
+  text-decoration: none;
+  color: #00FFFF;
+}
